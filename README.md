@@ -5,7 +5,7 @@ An eslint config for TS+Node (with prettier)
 
 Install the config
 ```bash
-pnpm add @fa7ad/eslint-config-tfnode
+yarn add @fa7ad/eslint-config-tfnode
 ```
 
 Create a `.eslintrc.js` file with the following content:
